@@ -1,2 +1,0 @@
-# models
-Kabyle DeepSpeech models
