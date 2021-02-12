@@ -1,2 +1,2 @@
-# kabyleDSModels
+# models
 Kabyle DeepSpeech models
